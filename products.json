@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14 128GB",
+        "price": 1609,
+        "image": "https://i.pinimg.com/736x/06/ac/af/06acaf69d781f5f13518bc8e084258c5.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S22",
+        "price": 1600,
+        "image": "https://www.lacuracao.pe/media/catalog/product/p/s/ps18053067_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
+    },
+    {
+        "id": 3,
+        "name": "Redmi Note 9",
+        "price": 500,
+        "image": "https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1607399343.90816668!400x400!85.png"
+    }
+]
